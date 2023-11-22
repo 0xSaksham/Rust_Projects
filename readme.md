@@ -13,8 +13,7 @@ This Rust program allows you to convert temperatures from Celsius to Fahrenheit 
 2. **Navigate to the Project:**
 
    ```
-   cd Rust_Projects
-   cd temperature_convertor
+   cd Rust_Projects/temperature_convertor
    ```
 
 3. **Run the Program:**
