@@ -1,0 +1,1 @@
+/home/saksham/Documents/Development/Rust/Rust_Projects/temperature_convertor/target/debug/temperature_convertor: /home/saksham/Documents/Development/Rust/Rust_Projects/temperature_convertor/src/main.rs
