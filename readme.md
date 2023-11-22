@@ -7,13 +7,14 @@ This Rust program allows you to convert temperatures from Celsius to Fahrenheit 
 1. **Clone the Repository:**
 
    ```
-   git clone https://github.com/your-username/celsius-to-fahrenheit.git
+   git clone https://github.com/0xSaksham/Rust_Projects.git
    ```
 
 2. **Navigate to the Project:**
 
    ```
-   cd celsius-to-fahrenheit
+   cd Rust_Projects
+   cd temperature_convertor
    ```
 
 3. **Run the Program:**
